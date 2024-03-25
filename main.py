@@ -21,4 +21,4 @@ e = a / b
 
 # Adding modulo
 
-m = a % b
+m = a % c # this is OK
