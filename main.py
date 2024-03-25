@@ -13,3 +13,7 @@ a = a * c # my implementation
 # Additiona implementation
 
 e = a / b
+
+# Adding modulo
+
+m = a % b
