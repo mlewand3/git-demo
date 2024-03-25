@@ -11,3 +11,5 @@ c = a + b
 d = a * b
 
 
+
+a = a * c # my implementation
